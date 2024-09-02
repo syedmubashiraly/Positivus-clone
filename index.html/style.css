@@ -1,0 +1,22 @@
+.nav-items {
+    margin-left: 80px;
+}
+.nav-items2 {
+    margin-left: 200px;
+}
+.btn-green {
+    background-color: #B9FF66;
+    border: none;
+    width: 150px;
+    height: 40px;
+    font-size: x-large;
+    font-weight: 600;
+}
+.btn-green2 {
+    background-color: #B9FF66;
+    border: none;
+    width: 250px;
+    height: 40px;
+    font-size: x-large;
+    font-weight: 600;
+}
